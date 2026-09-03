@@ -1,0 +1,62 @@
+commit 14fff3173332c21e423293cb209f939785553221
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 22:10:05 2026 -0600
+
+    Subiendo Ejecutable
+
+commit 49e934b5e7b0f950823dd55425879b2efd79c8d3
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 22:04:00 2026 -0600
+
+    Subiendo Capa_Vista
+
+commit c4c64fc49c3195e608e01cf3d6a20fd7b262d4f5
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:57:09 2026 -0600
+
+    Subiendo Capa_Modelo
+
+commit c6fbc6ce9d730289ffa0d44fb134b9a7745929cf
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:52:04 2026 -0600
+
+    Subiendo Capa_Controlador
+
+commit b194a618b51eb2eb5e1652c3fb7fbeb37f031b73
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:44:22 2026 -0600
+
+    Subiendo carpeta inicial
+
+commit 227b8953d7a64b1762a59afd81ffb34f313197d5
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:36:16 2026 -0600
+
+    listo
+
+commit cc301619009c642ff53a241246326ef239ba8514
+Merge: e8acb6f 2222165
+Author: CarlosDCR1 <156693207+CarlosDCR1@users.noreply.github.com>
+Date:   Wed Sep 2 21:34:29 2026 -0600
+
+    Merge pull request #1 from CarlosDCR1/CarlosDCR1-patch-1
+    
+    Create README.md
+
+commit 222216565a9b049e9f76f1a86f91637866d97c61
+Author: CarlosDCR1 <156693207+CarlosDCR1@users.noreply.github.com>
+Date:   Wed Sep 2 21:33:21 2026 -0600
+
+    Create README.md
+
+commit e8acb6f64c08bc6c62356023f9de71aa8602f049
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:21:44 2026 -0600
+
+    subiendo gitignore
+
+commit 414162f7c903f60c4c3061980164839b9b89e022
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:18:01 2026 -0600
+
+    first commit
