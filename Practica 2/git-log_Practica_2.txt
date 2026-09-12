@@ -1,0 +1,16 @@
+670762e Subiendo script usado
+4500bf0 Subiendo Vista Capacitacion 2 DLLs
+3c82ae6 Subiendo capa Modelo Capacitacion 2 DLLs
+2c7cc79 Subiendo capa controlador capacitacion 2 DLLs
+35fea4a Subiendo carpetas
+e9cabb2 subiendo log
+14fff31 Subiendo Ejecutable
+49e934b Subiendo Capa_Vista
+c4c64fc Subiendo Capa_Modelo
+c6fbc6c Subiendo Capa_Controlador
+b194a61 Subiendo carpeta inicial
+227b895 listo
+cc30161 Merge pull request #1 from CarlosDCR1/CarlosDCR1-patch-1
+2222165 Create README.md
+e8acb6f subiendo gitignore
+414162f first commit
