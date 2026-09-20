@@ -1,0 +1,119 @@
+commit b15cd14a0824f8ae3bd9a9115c6031862e3622e6
+Merge: a30f3f5 9b79635
+Author: CarlosDCR1 <156693207+CarlosDCR1@users.noreply.github.com>
+Date:   Sat Sep 19 23:01:37 2026 -0600
+
+    Merge pull request #2 from CarlosDCR1/Creacion_Reporte_9959-23-848-CarlosCalderon
+    
+    Subiendo Creacion de Reporte
+
+commit 9b796359225762af2f39dbdc7cf7a0be891d0c4e
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Sat Sep 19 22:58:35 2026 -0600
+
+    Subiendo Creacion de Reporte
+
+commit a30f3f50282d22011ea159f9bcd441dc4bacd1c9
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Fri Sep 11 18:48:08 2026 -0600
+
+    Subiendo log practica 2
+
+commit 670762e91bf7ae8e77f7a075a185a5a3a0bad014
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Fri Sep 11 18:02:39 2026 -0600
+
+    Subiendo script usado
+
+commit 4500bf08e226bf321a76dc0cb101c9f87db50597
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Fri Sep 11 17:54:14 2026 -0600
+
+    Subiendo Vista Capacitacion 2 DLLs
+
+commit 3c82ae60ca4d38d9c72486d94658136a4eeb6b7b
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Fri Sep 11 17:47:42 2026 -0600
+
+    Subiendo capa Modelo Capacitacion 2 DLLs
+
+commit 2c7cc79f95cd39c0bb7b05b21e6f1e1c2cf129a7
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Fri Sep 11 17:40:10 2026 -0600
+
+    Subiendo capa controlador capacitacion 2 DLLs
+
+commit 35fea4a3c063f1e5de05cd0cc3cdf2cf36189656
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Fri Sep 11 17:27:50 2026 -0600
+
+    Subiendo carpetas
+
+commit e9cabb2c9e6712b1d7ccc4c8640c791085167931
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 22:33:55 2026 -0600
+
+    subiendo log
+
+commit 14fff3173332c21e423293cb209f939785553221
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 22:10:05 2026 -0600
+
+    Subiendo Ejecutable
+
+commit 49e934b5e7b0f950823dd55425879b2efd79c8d3
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 22:04:00 2026 -0600
+
+    Subiendo Capa_Vista
+
+commit c4c64fc49c3195e608e01cf3d6a20fd7b262d4f5
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:57:09 2026 -0600
+
+    Subiendo Capa_Modelo
+
+commit c6fbc6ce9d730289ffa0d44fb134b9a7745929cf
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:52:04 2026 -0600
+
+    Subiendo Capa_Controlador
+
+commit b194a618b51eb2eb5e1652c3fb7fbeb37f031b73
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:44:22 2026 -0600
+
+    Subiendo carpeta inicial
+
+commit 227b8953d7a64b1762a59afd81ffb34f313197d5
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:36:16 2026 -0600
+
+    listo
+
+commit cc301619009c642ff53a241246326ef239ba8514
+Merge: e8acb6f 2222165
+Author: CarlosDCR1 <156693207+CarlosDCR1@users.noreply.github.com>
+Date:   Wed Sep 2 21:34:29 2026 -0600
+
+    Merge pull request #1 from CarlosDCR1/CarlosDCR1-patch-1
+    
+    Create README.md
+
+commit 222216565a9b049e9f76f1a86f91637866d97c61
+Author: CarlosDCR1 <156693207+CarlosDCR1@users.noreply.github.com>
+Date:   Wed Sep 2 21:33:21 2026 -0600
+
+    Create README.md
+
+commit e8acb6f64c08bc6c62356023f9de71aa8602f049
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:21:44 2026 -0600
+
+    subiendo gitignore
+
+commit 414162f7c903f60c4c3061980164839b9b89e022
+Author: CarlosDCR1 <ccalderonr2@miumg.edu.gt>
+Date:   Wed Sep 2 21:18:01 2026 -0600
+
+    first commit
