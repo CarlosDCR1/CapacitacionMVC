@@ -104,5 +104,10 @@ namespace CapaVista_prototipoumg2k26.Formas
             frmReporteTipoVehiculo reporte = new frmReporteTipoVehiculo();
             reporte.Show();
         }
+
+        private void btnAyuda_Click(object sender, EventArgs e)
+        {
+            Help.ShowHelp(this, "C:/AyudaRisko/CapaRisko.chm", "Vehiculo.html");
+        }
     }
 }
